@@ -1,0 +1,195 @@
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="" group-title="",24 HABER HD+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/134.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHABER.tr" tvg-name="TGRT HABER" tvg-country="TR" tvg-language="" tvg-logo="" group-title="Turkey",TGRT HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
+
+#EXTINF:-1 tvg-id="HABERTURKHD.tr" tvg-name="HABER TURK HD" tvg-country="TR" tvg-language="" tvg-logo="" group-title="Turkey",HABER TURK HD
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt1.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT 1 | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=trt1&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/atv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",ATV | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=atv-canli-hd-yayin&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-d.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Kanal D | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=kanal-d&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/beyaz-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Beyaz Tv | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=beyaz-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-id="STARTVHD.tr" tvg-name="STAR TV HD" tvg-country="TR" tvg-language="" tvg-logo="" group-title="Turkey",STAR TV HD
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/show-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Show Tv | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=show-tv-hd-izle&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/show-turk.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Show Türk | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=show-turk-izle-3&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal-7.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Kanal 7 | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=kanal-7-canli-turkiye&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tv-360.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Tv 360 | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=tv-360&stream=1&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tv8.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Tv8  | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=tv-8&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/fox.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Fox Tv | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=fox-canli-izle&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/a2-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",A2 Tv | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=a2-tv-1&stream=1&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/teve2.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Teve2 | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=teve2&stream=1&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tv8-5.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Tv8,5 | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=tv85-turkiye-1&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TLC Tv | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=tlc-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/d-max.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",D Max | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=d-max&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tv8-int.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Tv8 İnt | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=tv8-int-canli&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/euro-star.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Euro Star | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=euro-star&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/atv-avrupa.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",ATV Avrupa | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=atv-avrupa-12&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-turk.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Türk | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=trt-turk&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-avaz.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Avaz | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=trt-avaz&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/ucankus-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Uçankuş Tv | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=ucankus-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/show-max.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Show Max | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=show-max-izle-3&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tvem.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TvEM | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=tvem&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-2.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT 2 | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=trt-2&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tvo-izle.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TVO | Ulusal
+https://www.yilmaztv.com/oz/oz.php?channel=tvo-izle&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/a-haber.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",A Haber | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=a-haber-izle-13&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/haberturk-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Habertürk Tv | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=haberturk-tv-hd&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/cnn-turk.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",CNN Türk | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=cnn-turk-canli-yayin&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-haber.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Haber | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=trt-haber&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/haber-global.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Haber Global | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=haber-global&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/ntv-canli-yayin.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",NTV | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=ntv-canli-yayin&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/ulke-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Ülke Tv | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=ulke-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/benguturk-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Bengütürk Tv | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=benguturk-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tvnet.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TVNET | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=tvnet&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/akit-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Akit Tv | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=akit-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kanal24.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Kanal 24 | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=kanal24&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tv100.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TV100 | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=tv100&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/ulusal-kanal.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Ulusal Kanal | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=ulusal-kanal&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tbmm-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TBMM Tv | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=tbmm-tv-canli&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/a-para.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",A Para | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=a-para&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/tele1.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Tele1 | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=tele1&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/halk-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Halk Tv | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=halk-tv-izle-turkiye&stream=3&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/ekoturk-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",EkoTürk Tv | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=ekoturk-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/bloomberght.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Bloomberg HT | Haber
+https://www.yilmaztv.com/oz/oz.php?channel=bloomberg-ht-hd-izle&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-spor.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Spor | Spor
+https://www.yilmaztv.com/oz/oz.php?channel=trt-spor&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-spor-2.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Spor 2 | Spor
+https://www.yilmaztv.com/oz/oz.php?channel=trt-spor-2&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kral-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Kral Tv | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=kral-tv-1&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/kral-pop-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Kral Pop Tv | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=kral-pop-tv-1&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/vatan-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Vatan Tv | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=vatan-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/trt-muzik.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",TRT Müzik | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=trt-muzik&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/dream-turk.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Dream Türk | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=dream-turk-1&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/power-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Power Tv | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=power-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/power-turk-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Power Türk Tv | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=power-turk-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/number-one-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Number One Tv | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=number-one-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/number-one-turk-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Number One Türk Tv | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=number-one-turk-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/slow-karadeniz-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Slow Karadeniz Tv | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=slow-karadeniz-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/milyon-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Milyon Tv | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=milyon-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/dream-tv.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Dream Tv | Müzik
+https://www.yilmaztv.com/oz/oz.php?channel=dream-tv&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canlitv.me/poster/cartoon-network.png" group-title="01 (ULUSAL HD/SD  Dahili Decorder ayarlayın) | YILMAZTV",Cartoon Network | Çocuk
+https://www.yilmaztv.com/oz/oz.php?channel=cartoon-network&stream=2&id=4915&p=e14b46942bd19250677eae3a5adad615&type=m3u8
+
